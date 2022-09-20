@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DanieleCalvagno
+- 👀 I’m interested in iOS Developping, DevOps and networking
+- 🌱 I’m currently learning Kubernetes
+- 📫 How to reach me: send e-mail at "d.calvagno@reply.it"
